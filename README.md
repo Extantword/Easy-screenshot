@@ -11,7 +11,7 @@ Now, here is where the fun begins. For this to be actually useful, you will have
 
 # Why the hell is there a batch file?
 
-However, the repository includes a fancy batch file which will sort out things for you, but *only if you use windows*. This batch file will run the python script, open the folder where it is contained, and one second later, open an image of what you just captured.
+The repository includes a fancy batch file which will sort out things for you, but *only if you use windows*. This batch file will run the python script, open the folder where it is contained, and one second later, open an image of what you just captured.
 
 # Why does the python script override the previous screenshot?
 
